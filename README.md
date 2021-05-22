@@ -18,5 +18,11 @@
 It is a Modified Version of Anon HackBar which was developed by MasterJeo and got Modified by <b><a href="https://www.facebook.com/Huss4in007/">AnonHaxor007</a></> of <b><a href="https://www.facebook.com/GHH.Community/">Gray Hat Hacker's Community(GHHC)</a></b>.
 <br>
 <br>
+🔐Key Features🛠<br>
+
+* ➤ Replaced some normal DIOS(Dump In One Shot) with some pretty useful & heavy DIOS's.(Also Added GHHC's DIOS)<br>
+
+* ➤ Look Changed. Some minor bugs fixed.
+<br>
 <h4><b>Thanks Dear Brothers😍</b></h4>
 We are really thankful to all the members of <b><a href="https://t.me/GHHCommunity">GHHC</a></b> <b>Team/Group</b>. You guys are awesome🔥. Thanks to all of you for supporiting us, for supporting <b><a href="https://t.me/GHHCommunity">GHHC</a></b>🥰!
