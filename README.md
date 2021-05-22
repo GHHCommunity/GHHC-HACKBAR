@@ -20,7 +20,7 @@ It is a Modified Version of Anon HackBar which was developed by MasterJeo and go
 <br>
 🔐Key Features🛠<br>
 
-* ➤ Replaced some normal DIOS(Dump In One Shot) with some pretty useful & heavy DIOS's.(Also Added GHHC's DIOS)<br>
+* ➤ Replaced some normal DIOS(Dump In One Shot) with some pretty useful & heavy DIOS's. (Also Added GHHC's DIOS)<br>
 
 * ➤ Look Changed!<br>
 
