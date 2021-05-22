@@ -19,4 +19,4 @@ It is a Modified Version of Anon HackBar which was developed by MasterJeo and go
 <br>
 <br>
 <h4><b>Thanks Dear Brothers😍</b></h4>
-We are really thankful to all the members of <b><a href="https://t.me/GHHCommunity">GHHC</a></b> <b>Team/Group</b>. Their love and support have always inspired us to do great things. Thanks to all of you for supporiting us, for supporting <b><a href="https://t.me/GHHCommunity">GHHC</a></b>🥰!
+We are really thankful to all the members of <b><a href="https://t.me/GHHCommunity">GHHC</a></b> <b>Team/Group</b>. You guys are awesome🔥. Thanks to all of you for supporiting us, for supporting <b><a href="https://t.me/GHHCommunity">GHHC</a></b>🥰!
