@@ -17,3 +17,4 @@
 It is a Modified Version of Anon HackBar which was developed by MasterJeo and got Modified by <b><a href="https://www.facebook.com/Huss4in007/">AnonHaxor007</a></> of <b><a href="https://www.facebook.com/GHH.Community/">Gray Hat Hacker's Community(GHHC)</a></b>.
 <br>
 <br>
+<p style="color:blue">This is another paragraph.</p>
