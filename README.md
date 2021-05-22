@@ -2,7 +2,7 @@
 
 # GHHC-HACKBAR
 <br>
-<b><u>Disclaimer:</u></b> <b><a href="https://ghhcommunity.github.io/GHHC-HACKBAR/GHHC-HACKBAR.apk">GHHC-HACKBAR</a></b> is a Modified Version of <b>Anon HackBar V1.4</b> & it is built for pentesting and learning purposes only. We never support or provoke any unethical, harmful and illegal activity. The developers will not be responsible for any misuse of the tool.\
+⚠<b><u>Disclaimer:</u></b> <b><a href="https://ghhcommunity.github.io/GHHC-HACKBAR/GHHC-HACKBAR.apk">GHHC-HACKBAR</a></b> is a Modified Version of <b>Anon HackBar V1.4</b> & it is built for pentesting and learning purposes only. We never support or provoke any unethical, harmful and illegal activity. The developers will not be responsible for any misuse of the tool.\
 <br>
 <br>
 <h4><b><u>⚡Download⚡</u></b></h4>
