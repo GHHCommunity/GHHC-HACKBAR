@@ -2,7 +2,7 @@
 
 # GHHC-HACKBAR
 
-<!--Flag >>> R1VSRVJfbmVyX0FCX3l2enZnX1NiZV9ZUk5FQVZBVA==-->
+<!--Special >>> R1VSRVJfbmVyX0FCX3l2enZnX1NiZV9ZUk5FQVZBVA==  -->
 
 <br>
 ⚠<b><u>Disclaimer:</u></b> <b><a href="https://ghhcommunity.github.io/GHHC-HACKBAR/GHHC-HACKBAR.apk">GHHC-HACKBAR</a></b> is a Modified Version of <b>Anon HackBar V1.4</b> & it is built for pentesting and learning purposes only. We never support or provoke any unethical, harmful and illegal activity. The developers will not be responsible for any misuse of the tool.
@@ -34,3 +34,7 @@ We are really thankful to all the members of <b><a href="https://t.me/GHHCommuni
 <br>
 <br>
 <h3>⚠If any error occurs feel free to contact <b><a href="https://www.facebook.com/Huss4in007/">me :)</a></b>⚠</h3>
+<b>Regarding,<br></b>
+<b>AnonHaxor007</b> from <b>GHHC</b><br>
+<p align="center"> <a href="#"><img title="AnonHaxor007" src="https://user-images.githubusercontent.com/80751079/119658487-04f83000-be4f-11eb-9d80-7ad228d0e1f0.png" height="250" width="250"></a></p>
+
