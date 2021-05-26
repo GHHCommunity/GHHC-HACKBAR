@@ -33,7 +33,7 @@ It is a Modified Version of Anon HackBar which was developed by MasterJeo and go
 We are really thankful to all the members of <b><a href="https://t.me/GHHCommunity">GHHC</a></b> <b>Team/Group</b>. You guys are awesome🔥. Thanks to all of you for supporiting us, for supporting <b><a href="https://t.me/GHHCommunity">GHHC</a></b>🥰!
 <br>
 <br>
-<h3>⚠If any error occurs feel free to contact <b><a href="https://www.facebook.com/Huss4in007/">me</a>:)</b>⚠</h3>
+<h3>⚠If any error occurs feel free to contact <b><a href="https://www.facebook.com/Huss4in007/">me</a> :)</b>⚠</h3>
 <b>Regarding,<br></b>
 <b>AnonHaxor007</b><br>
 <p align="center"> <a href="#"><img title="AnonHaxor007" src="https://user-images.githubusercontent.com/80751079/119658487-04f83000-be4f-11eb-9d80-7ad228d0e1f0.png" height="250" width="250"></a></p>
