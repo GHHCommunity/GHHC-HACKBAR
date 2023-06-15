@@ -1,7 +1,8 @@
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/80751079/119233993-5356b780-bb4d-11eb-9c1a-1e5caaf9ca44.png" width=900>
-</p>
 
+  ![GHHC HackBar](https://github.com/0xAdiyat/GHHC-HACKBAR/assets/67780459/04742ca1-9a1a-449b-b521-a76ff24cb70e)
+
+</p>
 <h1 align="center"> GHHC-HACKBAR </h1> <br>
 
 
